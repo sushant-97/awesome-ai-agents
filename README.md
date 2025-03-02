@@ -1,2 +1,2 @@
-# awesome-ai-agents
-🤖 Awesome list of AI Agents
+# 🤖 awesome-ai-agents
+Awesome AI-Agents is a curated list of open source AI agents.
